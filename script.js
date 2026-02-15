@@ -1,3 +1,5 @@
+// test
+
 // Text content for language switching
 const textContent = {
     en: {
