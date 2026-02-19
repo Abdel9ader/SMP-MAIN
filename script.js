@@ -388,10 +388,10 @@ const placeholderImages = {
 
 // Social media links
 const socialLinks = {
-    'facebook': 'https://facebook.com/abdelkader.mohamed',
-    'twitter': 'https://twitter.com/abdelkader',
-    'linkedin': 'https://linkedin.com/in/abdelkader-mohamed',
-    'instagram': 'https://instagram.com/abdelkader.smm',
+    'facebook': 'https://www.facebook.com/share/1BKza1ndV9/',
+    'twitter': 'https://x.com/_F35__',
+    'linkedin': 'https://www.linkedin.com/in/abdelkader-mohamed-a00536249?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app',
+    'instagram': 'https://www.instagram.com/_r9.il?igsh=ZWhhMDd4ZnVzeTVy',
     'whatsapp': 'https://wa.me/201013706142'
 };
 
@@ -927,3 +927,4 @@ window.addEventListener('resize', function() {
     // Re-initialize social orbs positions
     initializeSocialOrbs();
 });
+
